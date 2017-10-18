@@ -35,6 +35,9 @@ html {
     background: #b3d4fc;
     text-shadow: none;
 }
+p{
+    line-height: 1.5em;
+}
 
 /*
  * A better looking default horizontal rule
